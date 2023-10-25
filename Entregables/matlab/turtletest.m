@@ -8,7 +8,7 @@ tpclint=rossvcclient('/turtle1/teleport_absolute');
 tpreq= rosmessage(tpclint);
 %% Valores de las velocidades
 velMsg.Linear.X =1; %Valor del mensaje
-velMsg.Linear.Y =5;
+velMsg.Linear.Y =3;
 velMsg.Angular.Z=-2;
 %% Valores de las pos abs
 tpreq.X=cast(5.544445,'single');
