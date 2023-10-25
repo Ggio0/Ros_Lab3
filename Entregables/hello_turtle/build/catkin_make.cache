@@ -1,2 +1,0 @@
-.
--DCATKIN_DEVEL_PREFIX=/home/gio/Unal/Robot/lab3/hello_turtle/devel -DCMAKE_INSTALL_PREFIX=/home/gio/Unal/Robot/lab3/hello_turtle/install -G Unix Makefiles
